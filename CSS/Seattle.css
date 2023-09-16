@@ -1,0 +1,110 @@
+* {
+    background-color: rgb(171, 171, 171);
+}
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;  
+}
+.image {
+    text-align: center;
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    align-items: center;
+}
+.seattle h1{
+    color: #000000;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.seattle img{
+    width: 400px;
+    height: 400px;
+    margin: 10px 40px;
+}
+.intro h3{
+    color: #fffffe;
+    border-radius: 2px 8px;
+    width: 110px;
+    background-color: #000000;
+    padding: 5px 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.intro h6{
+    font-size: 16px;
+    color: #2e2e2e;
+    margin: 20px auto;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+.intro h4{
+    color: #2e2e2e;
+    margin-left: 40px;   
+}
+.intro p{
+    color: #2e2e2e;
+    font-size: 16px;
+    margin-left: 40px;
+}
+.landmark {
+    text-align: center;
+}
+.landmark h3{
+    color: #fffffe;
+    border-radius: 2px 8px;
+    width: 100px;
+    background-color: #000000;
+    padding: 5px 10px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.landmark h6{
+    font-size: 16px;
+    color: #2e2e2e;
+    margin: 20px auto;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+.story h3{
+    color: #fffffe;
+    border-radius: 2px 8px;
+    width: 50px;
+    height: 26px;
+    background-color: #000000;
+    padding: 5px 40px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.story1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row; 
+}
+.story1 h6{
+    font-size: 16px;
+    color: #c6c6c6;
+    width: 250px;
+    height: 350px;
+    background-color: #2e2e2e;
+    border-radius: 8px;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin-left: 40px;
+}
+.story1 img{
+    max-width: 400px;
+    height: auto;
+}

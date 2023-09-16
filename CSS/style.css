@@ -1,0 +1,24 @@
+.home {
+    position: relative;
+
+}
+.image1 {
+    position:absolute;
+    top: 14px;
+    left: 115px;
+    z-index: 5;
+    /* margin-left: 115px;
+    margin-top: 11px; */
+}
+.image2 {
+    position:absolute;
+    top: 300px;
+    right: 186px;
+    z-index: 6;
+}
+.text p{
+    font-size: 18px;
+    color: rgb(169, 169, 169);
+    text-align: center;
+    margin-top: -15px;
+}
